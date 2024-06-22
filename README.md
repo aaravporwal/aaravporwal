@@ -5,3 +5,5 @@
 ∙👨🏼‍💻 Favourite Languages - HTML, CSS and Python
 
 ∙⛹🏻‍♂️Pro Basketball Player
+
+∙🏅 CodeDay Mumbai 2022 - Best in Class Winner
