@@ -1,6 +1,9 @@
 ∙👋 Hey! I'm Aarav, a 15 year old Passionate coder :)
+
 ∙🏫 Currently in Class 10th
+
 ∙👨🏼‍💻 Experienced in HTML, CSS and Python
+
 ∙⛹🏻‍♂️Pro Basketball Player
 
 <!--
