@@ -1,4 +1,7 @@
-## Hi there 👋
+∙👋 Hey! I'm Aarav, a 15 year old Passionate coder :)
+∙🏫 Currently in Class 10th
+∙👨🏼‍💻 Experienced in HTML, CSS and Python
+∙⛹🏻‍♂️Pro Basketball Player
 
 <!--
 **aaravporwal/aaravporwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
