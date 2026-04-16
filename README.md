@@ -4,7 +4,7 @@ Hey! I'm Aarav Porwal, a 16 year old passionate coder.
 
   ∙ Organiser at Daydream Mumbai, Campfire Mumbai and Build Guild Mumbai
   
-  ∙ Currently in Class 12th.
+  ∙ Currently in Class 12th
   
   ∙ Favourite Programming Languages - HTML, CSS, JS and Python
   
