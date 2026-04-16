@@ -1,4 +1,4 @@
-👋 Hey! I'm Aarav Porwal, a 16 year old passionate coder.
+Hey! I'm Aarav Porwal, a 16 year old passionate coder.
 
   ∙ Regional Manager at CodeDay Mumbai
 
